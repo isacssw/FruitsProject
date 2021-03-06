@@ -1,0 +1,22 @@
+{
+  "name": "fruitsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isacssw/FruitsProject.git"
+  },
+  "author": "Isac X",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isacssw/FruitsProject/issues"
+  },
+  "homepage": "https://github.com/isacssw/FruitsProject#readme",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
